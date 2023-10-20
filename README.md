@@ -2,4 +2,4 @@
 Для магистратуры "Прикладной анализ данных в медицине"
 
 ## Проекты
-* [Проект 0. Обучение работе в GitHub](C:\IDE\sf_proba\project_0\proba.ipynb)
+* [Проект 0. Обучение работе в GitHub](https://github.com/TaisiyaGlazova/sf_proba/tree/main/project_0)
