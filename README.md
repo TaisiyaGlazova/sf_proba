@@ -1,2 +1,5 @@
-# sf_proba
- I am just learning how to use it
+# Мои учебные проекты
+Для магистратуры "Прикладной анализ данных в медицине"
+
+## Проекты
+* [Проект 0. Обучение работе в GitHub](C:\IDE\sf_proba\project_0\proba.ipynb)
